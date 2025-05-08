@@ -3,10 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "TinyTown_Tilesheet.tsx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "TileMap.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 97.5,
+                "y": 75
+            }
+        },
+        "TinyTown_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        }
     },
     "last.imagePath": "C:/Users/48952133/Documents/GitHub/comp1151prac-tilemapgame-TemmieDev/Assets/Tiled/TilemapGame/Tilemap",
     "map.fixedSize": false,
@@ -14,9 +27,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "TinyTown_Tilesheet.tsx",
+        "TileMap.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "TileMap.tmx",
+        "TinyTown_Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
